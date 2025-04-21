@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Angel Ramirez @AngelinhoRG
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning computer networks
+- 🌱 I’m currently learning data mining
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: angelr050103@gmail.com
+- 📫 How to reach me: angelr050103@gmail.com / linkedin.com/in/angelramirez003
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer, motorsports, and travelling/new experiences.
 
